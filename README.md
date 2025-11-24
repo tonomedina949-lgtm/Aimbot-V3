@@ -1,4 +1,4 @@
-# ☄️ Aimbot V3 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Exunys.Aimbot-V3)](https://exunys.gitbook.io/aimbot-v3-documentation)
+[![CodeQL](https://github.com/ubports/ubports-installer/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ubports/ubports-installer/actions/workflows/codeql-analysis.yml)# ☄️ Aimbot V3 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Exunys.Aimbot-V3)](https://exunys.gitbook.io/aimbot-v3-documentation)
 
 This project is a universal aim-locking module that works with all games using the default character. This version includes several improvements over [Aimbot V2](https://github.com/Exunys/Aimbot-V2), with key enhancements being optimization and numerous rewritten parts for maximum efficiency.
 
